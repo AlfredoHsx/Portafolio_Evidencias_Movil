@@ -1,0 +1,3 @@
+<div class="container">
+    <image class="remote-image" src="{{ imageUrl }}"/>
+</div>
